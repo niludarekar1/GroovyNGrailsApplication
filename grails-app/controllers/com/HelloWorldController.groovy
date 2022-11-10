@@ -5,5 +5,6 @@ class HelloWorldController {
     def index() {
 
         render "Hello...Welcome to LMS"
+        render "Nilesh Hello"
     }
 }
